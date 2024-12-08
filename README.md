@@ -11,7 +11,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/WatchStore/
 
-**Website View** - https://designcraft.odoo.com/food-website
+**Website View** - https://designcraft.odoo.com/watch-store
 
 # CodeCraft-Beta
 
