@@ -3,11 +3,9 @@ This is Watch Store. I am make Following Section in this Website.
 
 + **Home**
 
-+ **Menu**
++ **Product**
 
-+ **ABOUT**
-
-+ **CONTACT**
++ **Store**
 
 Watch more Website Template in my Website.
 
